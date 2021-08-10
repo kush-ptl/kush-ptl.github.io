@@ -1,3 +1,4 @@
-# [kushptl.com] (kushptl.com)
+# kush-ptl.github.io
 
+[kushptl.com] (kushptl.com)
 check out my website! made with ❤ by yours truly using html and css, with the bootstrap framework
