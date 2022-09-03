@@ -10,6 +10,11 @@ body {
     position: relative
 }
 
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
 .profpic {
     max-width: 150px;
     height: auto;
